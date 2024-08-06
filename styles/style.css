@@ -92,6 +92,7 @@
     flex-shrink: 0;
     border-radius: 99999px;
     background: #FF9C08;
+    margin-bottom: 25px;
 }
 .help {
     margin-top: 208px;
@@ -116,6 +117,8 @@
     font-size: 24px;
     font-weight: 400;
     line-height: 38px; /* 158.3% */
+    margin-top: 16px;
+    margin-bottom: 43px;
 }
 
 .buttons {
